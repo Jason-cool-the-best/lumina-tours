@@ -149,7 +149,7 @@ export default function Home() {
         <section className="quote-band">
           <div className="quote-inner">
             <span className="kicker">MORE THAN A TRIP</span>
-            <p>“Đi để thấy, để hiểu,<br /><em>và để thương hơn từng miền đất Việt.”</em></p>
+            <p>“Đi để thấy, để hiểu,<br /><em>và để thương hơn tổ quốc Việt Nam.”</em></p>
           </div>
         </section>
 
