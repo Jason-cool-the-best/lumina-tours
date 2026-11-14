@@ -13,14 +13,14 @@ const destinations = [
   {
     name: "Hội An",
     eyebrow: "NÉT XƯA PHỐ HỘI",
-    image: "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1200&q=85",
+    image: "https://images.unsplash.com/photo-1701397955118-79059690ef50?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     description: "Dạo bước giữa những mái nhà vàng, hội quán cổ kính, trải nghiệm thuyền thúng và vẻ đẹp lung linh bên sông Hoài.",
     places: ["Phố cổ Hội An", "Chùa Cầu", "Rừng dừa Bảy Mẫu", "Làng gốm và làng lụa"]
   },
   {
     name: "Huế",
     eyebrow: "DẤU ẤN CỐ ĐÔ",
-    image: "https://images.unsplash.com/photo-1570366583862-f91883984a13?auto=format&fit=crop&w=1200&q=85",
+    image: "https://images.unsplash.com/photo-1664333039578-28ad613ee536?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     description: "Tìm về không gian kinh thành xưa, những ngôi chùa trầm mặc và nét văn hóa đặc sắc của vùng đất cố đô.",
     places: ["Đại Nội Huế", "Chùa Thiên Mụ", "Lăng Khải Định", "Làng hương Thủy Xuân", "Trường Quốc Học Huế"]
   },
