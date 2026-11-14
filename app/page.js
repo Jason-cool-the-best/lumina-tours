@@ -34,10 +34,10 @@ const destinations = [
 ];
 
 const foods = [
-  { name: "Mì Quảng", region: "Đà Nẵng", image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=85" },
-  { name: "Cao lầu", region: "Hội An", image: "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?auto=format&fit=crop&w=800&q=85" },
-  { name: "Bánh bèo – nậm – lọc", region: "Huế", image: "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=85" },
-  { name: "Bánh canh cá lóc", region: "Quảng Trị", image: "https://images.unsplash.com/photo-1565123409695-7b5ef63a2efb?auto=format&fit=crop&w=800&q=85" }
+  { name: "Mì Quảng", region: "Đà Nẵng", image: "https://i.ytimg.com/vi/TTWTwhV9Zx0/maxresdefault.jpg" },
+  { name: "Cao lầu", region: "Hội An", image: "https://static.vinwonders.com/2022/10/cao-lau-hoi-an-banner.jpg" },
+  { name: "Bánh bèo – nậm – lọc", region: "Huế", image: "https://static.vinwonders.com/2022/11/banh-bot-loc-da-nang-1.jpg" },
+  { name: "Bánh canh cá lóc", region: "Quảng Trị", image: "https://yummyday.vn/uploads/images/banh-canh-ca-loc.jpg" }
 ];
 
 const services = [
