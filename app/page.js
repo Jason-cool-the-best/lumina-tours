@@ -27,7 +27,7 @@ const destinations = [
   {
     name: "Quảng Trị",
     eyebrow: "MIỀN DI SẢN VÀ KÝ ỨC",
-    image: "https://cdn-media.sforum.vn/storage/app/media/ctvseo_MH/%E1%BA%A3nh%20%C4%91%E1%BA%B9p%20Qu%E1%BA%A3ng%20Tr%E1%BB%8B/anh-dep-quang-tri-thumb.jpg",
+    image: "https://www.thaibinhduong.vn/upload/2019/Thang%206/Thanh%20co%20Quang%20Tri.jpg",
     description: "Lắng nghe câu chuyện lịch sử tại những địa danh cách mạng, đồng thời khám phá thiên nhiên kỳ vĩ của khu vực Quảng Bình cũ.",
     places: ["Thành cổ Quảng Trị", "Địa đạo Vịnh Mốc", "Nghĩa trang Trường Sơn", "Hiền Lương – Bến Hải", "Phong Nha – Kẻ Bàng", "Vũng Chùa – Đảo Yến"]
   }
